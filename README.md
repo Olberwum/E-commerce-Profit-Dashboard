@@ -68,7 +68,7 @@
 
 **Ульяна Шабалкина**  
 BI / SQL / Business Analyst | English C1/C2  
-[GitHub](ссылка) • [LinkedIn](ссылка) • [Tableau Public](ссылка)
+[GitHub](https://github.com/Olberwum) • [HH](https://izhevsk.hh.ru/resume/c1f53bd4ff1096e82e0039ed1f6345354d6a4c) • [Telegram](https://t.me/Olberwum)
 
 ---
 
