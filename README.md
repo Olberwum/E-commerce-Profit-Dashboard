@@ -5,8 +5,8 @@
 Проект выполнен в рамках портфолио для позиции **BI / SQL / Business Analyst (Junior+/Middle)**.
 
 🔗 [**Ссылка на дашборд:** 
-]([https://public.tableau.com/app/profile/.32815139/viz/e-commercesales_17804856312360/EcommerceProfitDashboard?publish=yes](https://public.tableau.com/app/profile/.32815139/viz/e-commercesales_17804856312360/EcommerceProfitDashboard?publish=yes))
-]()
+](https://public.tableau.com/app/profile/.32815139/viz/e-commercesales_17804856312360/EcommerceProfitDashboard?publish=yes)
+
 ---
 
 ## 🎯 Бизнес-задача
