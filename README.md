@@ -1,7 +1,7 @@
 # 📊 E-commerce Profit Dashboard
 
 **Интерактивный дашборд** для анализа прибыльности интернет-магазина.  
-Построен в **Tableau Public** на основе реального (синтетического) [датасета e‑commerce. ](https://www.kaggle.com/datasets/prince7489/e-commerce-sales/data) Дашборд построен без SQL-запросов в явном виде
+Построен в **Tableau Public** на основе синтетического [датасета e‑commerce. ](https://www.kaggle.com/datasets/prince7489/e-commerce-sales/data) Дашборд построен без SQL-запросов в явном виде
 Проект выполнен в рамках портфолио для позиции **BI / SQL / Business Analyst (Junior+/Middle)**.
 
 ## 🔗 [**Ссылка на дашборд**](https://public.tableau.com/app/profile/.32815139/viz/e-commercesales_17804856312360/EcommerceProfitDashboard?publish=yes)
